@@ -1,0 +1,26 @@
+[2025-05-01 23:12:02] Initialized 5 chat rooms
+[2025-05-01 23:12:18] Initialized 5 chat rooms
+[2025-05-01 23:12:33] Initialized 5 chat rooms
+[2025-05-01 23:12:55] Initialized 5 chat rooms
+[2025-05-01 23:15:00] Initialized 5 chat rooms
+[2025-05-01 23:15:00] Server started on port 8888
+[2025-05-01 23:15:24] New user grav connected from 127.0.0.1
+[2025-05-01 23:15:34] User grav moved from room General to Tech
+[2025-05-01 23:15:37] User grav moved from room Tech to Music
+[2025-05-01 23:16:14] User grav disconnected
+[2025-05-01 23:18:31] Initialized 5 chat rooms
+[2025-05-01 23:18:31] Server started on port 8888
+[2025-05-01 23:18:51] New user grav connected from 127.0.0.1
+[2025-05-01 23:19:12] User grav moved from room General to Gaming
+[2025-05-01 23:19:16] User grav moved from room Gaming to Movies
+[2025-05-01 23:19:23] User grav moved from room Movies to Music
+[2025-05-01 23:19:44] Message from grav in room Music: prive<grav> <hello>
+[2025-05-01 23:20:02] User grav disconnected
+[2025-05-01 23:20:15] New user chrom connected from 127.0.0.1
+[2025-05-01 23:20:49] User chrom moved from room General to Gaming
+[2025-05-01 23:20:53] User chrom disconnected
+[2025-05-01 23:26:48] Initialized 5 chat rooms
+[2025-05-01 23:26:48] Server started on port 8888
+[2025-05-01 23:27:01] New user grav connected from 127.0.0.1
+[2025-05-01 23:27:45] New user chrom connected from 127.0.0.1
+[2025-05-01 23:28:13] Private message from chrom to grav
